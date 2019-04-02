@@ -1,13 +1,13 @@
 h4{
-  color: white;
+  color: green;
 }
 
 .hover{
-    background-color: #F44336
+    background-color:blue;
 }
 
 .hoverRed:hover{
-  color: red;
+  color: blue;
 }
 
 .hover:hover{

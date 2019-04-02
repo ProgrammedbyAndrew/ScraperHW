@@ -1,5 +1,5 @@
 {
-  "name": "all-the-news-that-s-fit-to-scrape",
+  "name": "ScraperHW",
   "version": "1.0.0",
   "description": "News Scraper",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roverkim/All-the-News-That-s-Fit-to-Scrape.git"
+    "url": "www.marketngrow.com"
   },
   "author": "Andrew",
   "license": "ISC",
   "bugs": {
     "url": ""
   },
-  "homepage": "",
+  "homepage": "www.marketngrow.com",
   "dependencies": {
     "axios": "^0.17.1",
     "body-parser": "^1.18.2",
